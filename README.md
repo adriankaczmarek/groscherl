@@ -1,0 +1,2 @@
+# groscherl
+Datenschutzerklärung Groscherl
